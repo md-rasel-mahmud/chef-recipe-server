@@ -11,6 +11,13 @@ app.listen(port, () => {
     console.log(`server is running in port: ${port}`);
 })
 
+// server check response  
 app.get('/', (req, res) => {
     res.send('server is live')
+})
+
+const chefs = require('./data/chefs.json')
+
+app.get('/chefs', (req, res) => {
+    res.send(chefs)
 })

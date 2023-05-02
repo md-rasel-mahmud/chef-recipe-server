@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+      "name": "John Smith",
+      "experience": 10,
+      "recipes": 75,
+      "likes": 4500
+    },
+    {
+      "id": 2,
+      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+      "name": "Maria Rodriguez",
+      "experience": 8,
+      "recipes": 60,
+      "likes": 3500
+    },
+    {
+      "id": 3,
+      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+      "name": "David Lee",
+      "experience": 12,
+      "recipes": 80,
+      "likes": 5000
+    },
+    {
+      "id": 4,
+      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+      "name": "Catherine Nguyen",
+      "experience": 6,
+      "recipes": 50,
+      "likes": 2500
+    },
+    {
+      "id": 5,
+      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+      "name": "Michael Brown",
+      "experience": 15,
+      "recipes": 100,
+      "likes": 7500
+    },
+    {
+      "id": 6,
+      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+      "name": "Emma Wilson",
+      "experience": 7,
+      "recipes": 55,
+      "likes": 3000
+    }
+  ]
