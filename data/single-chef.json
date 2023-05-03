@@ -7,8 +7,49 @@
         "recipes": 5,
         "likes": 4500,
         "rating": 4.5,
-        "bio": "John Smith is a renowned chef with 10 years of experience in Italian cuisine. He has authored over 75 recipes and has gained a following of 4500 food enthusiasts. His lasagna recipe is a fan favorite and has been featured in various food blogs and magazines."
-        
+        "bio": "John Smith is a renowned chef with 10 years of experience in Italian cuisine. He has authored over 75 recipes and has gained a following of 4500 food enthusiasts. His lasagna recipe is a fan favorite and has been featured in various food blogs and magazines.",
+        "recipe": [
+            {
+                "name": "Classic Spaghetti Carbonara",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "4 large egg yolks",
+                    "1 cup grated Parmesan cheese",
+                    "8 ounces pancetta, diced",
+                    "4 cloves garlic, minced"
+                ]
+            },
+            {
+                "name": "Creamy Mushroom Risotto",
+                "ingredients": [
+                    "1 cup Arborio rice",
+                    "4 cups chicken or vegetable broth",
+                    "1 cup dry white wine",
+                    "1 pound mushrooms, sliced",
+                    "1 onion, diced",
+                    "3 cloves garlic, minced",
+                    "1/2 cup grated Parmesan cheese",
+                    "2 tablespoons butter",
+                    "2 tablespoons olive oil",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Beef and Broccoli Stir-Fry",
+                "ingredients": [
+                    "1 pound flank steak, thinly sliced",
+                    "2 cups broccoli florets",
+                    "1 red bell pepper, thinly sliced",
+                    "1/2 cup beef broth",
+                    "2 tablespoons cornstarch",
+                    "2 tablespoons soy sauce",
+                    "2 cloves garlic, minced",
+                    "1 tablespoon ginger, grated",
+                    "1 teaspoon sugar",
+                    "2 tablespoons vegetable oil"
+                ]
+            }
+        ]
     },
     {
         "id": 2,
@@ -18,8 +59,51 @@
         "recipes": 6,
         "likes": 3500,
         "rating": 4.2,
-        "bio": "Maria Rodriguez is a chef with 8 years of experience in seafood and Latin American cuisine. She has created over 60 recipes and has garnered a following of 3500 food enthusiasts. Her shrimp scampi recipe is a must-try for seafood lovers."
-        
+        "bio": "Maria Rodriguez is a chef with 8 years of experience in seafood and Latin American cuisine. She has created over 60 recipes and has garnered a following of 3500 food enthusiasts. Her shrimp scampi recipe is a must-try for seafood lovers.",
+        "recipe": [
+            {
+                "name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "2 pounds boneless, skinless chicken breasts, cut into bite-sized pieces",
+                    "1 onion, chopped",
+                    "4 cloves garlic, minced",
+                    "1 tablespoon ginger, grated",
+                    "1 can (14 oz) crushed tomatoes",
+                    "1 cup heavy cream",
+                    "2 tablespoons vegetable oil",
+                    "1 tablespoon garam masala",
+                    "1 tablespoon paprika",
+                    "1 tablespoon turmeric",
+                    "1 tablespoon cumin",
+                    "1 tablespoon coriander",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Easy Baked Salmon",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "1/4 cup honey",
+                    "1/4 cup soy sauce",
+                    "2 tablespoons Dijon mustard",
+                    "1 tablespoon olive oil",
+                    "1 lemon, sliced"
+                ]
+            },
+            {
+                "name": "Lemon Garlic Shrimp Pasta",
+                "ingredients": [
+                    "1 pound spaghetti",
+                    "1 pound shrimp, peeled and deveined",
+                    "1/4 cup olive oil",
+                    "4 cloves garlic, minced",
+                    "1/2 teaspoon red pepper flakes",
+                    "1 lemon, zested and juiced",
+                    "1/2 cup grated Parmesan cheese",
+                    "Salt and pepper to taste"
+                ]
+            }
+        ]
     },
     {
         "id": 3,
@@ -29,8 +113,58 @@
         "recipes": 3,
         "likes": 5000,
         "rating": 4.8,
-        "bio": "David Lee is a chef with 12 years of experience in Asian cuisine. He has created over 80 recipes and has gained a following of 5000 food enthusiasts. His chicken curry recipe is a family favorite and has been featured in various food blogs and magazines."
-        
+        "bio": "David Lee is a chef with 12 years of experience in Asian cuisine. He has created over 80 recipes and has gained a following of 5000 food enthusiasts. His chicken curry recipe is a family favorite and has been featured in various food blogs and magazines.",
+        "recipe": [
+            {
+                "name": "Mushroom Stroganoff",
+                "ingredients": [
+                    "1 pound egg noodles",
+                    "1 pound mushrooms, sliced",
+                    "1 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1/2 cup sour cream",
+                    "1/4 cup flour",
+                    "1/4 cup vegetable broth",
+                    "2 tablespoons butter",
+                    "2 tablespoons olive oil",
+                    "2 tablespoons chopped parsley",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Vegan Mushroom Stroganoff",
+                "ingredients": [
+                    "1 pound egg-free noodles",
+                    "1 pound mushrooms, sliced",
+                    "1 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1/2 cup vegan sour cream",
+                    "1/4 cup all-purpose flour",
+                    "1/4 cup vegetable broth",
+                    "2 tablespoons vegan butter",
+                    "2 tablespoons olive oil",
+                    "2 tablespoons chopped parsley",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Beef and Mushroom Stroganoff",
+                "ingredients": [
+                    "1 pound egg noodles",
+                    "1 pound beef, sliced",
+                    "1 pound mushrooms, sliced",
+                    "1 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1/2 cup sour cream",
+                    "1/4 cup flour",
+                    "1/4 cup beef broth",
+                    "2 tablespoons butter",
+                    "2 tablespoons olive oil",
+                    "2 tablespoons chopped parsley",
+                    "Salt and pepper to taste"
+                ]
+            }
+        ]
     },
     {
         "id": 4,
@@ -40,8 +174,60 @@
         "recipes": 12,
         "likes": 2500,
         "rating": 4.7,
-        "bio": "Catherine Nguyen is a chef with 6 years of experience in Vietnamese cuisine. She has authored over 50 recipes and has gained a following of 2500 food enthusiasts. Her pho recipe is a comfort food staple and has been featured in various food blogs and magazines."
-        
+        "bio": "Catherine Nguyen is a chef with 6 years of experience in Vietnamese cuisine. She has authored over 50 recipes and has gained a following of 2500 food enthusiasts. Her pho recipe is a comfort food staple and has been featured in various food blogs and magazines.",
+        "recipe": [
+            {
+                "name": "Chicken and Mushroom Stroganoff",
+                "ingredients": [
+                    "1 pound egg noodles",
+                    "1 pound chicken, sliced",
+                    "1 pound mushrooms, sliced",
+                    "1 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1/2 cup sour cream",
+                    "1/4 cup flour",
+                    "1/4 cup chicken broth",
+                    "2 tablespoons butter",
+                    "2 tablespoons olive oil",
+                    "2 tablespoons chopped parsley",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Turkey and Mushroom Stroganoff",
+                "ingredients": [
+                    "1 pound egg noodles",
+                    "1 pound turkey, sliced",
+                    "1 pound mushrooms, sliced",
+                    "1 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1/2 cup sour cream",
+                    "1/4 cup flour",
+                    "1/4 cup turkey broth",
+                    "2 tablespoons butter",
+                    "2 tablespoons olive oil",
+                    "2 tablespoons chopped parsley",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Pork and Mushroom Stroganoff",
+                "ingredients": [
+                    "1 pound egg noodles",
+                    "1 pound pork, sliced",
+                    "1 pound mushrooms, sliced",
+                    "1 onion, diced",
+                    "2 cloves garlic, minced",
+                    "1/2 cup sour cream",
+                    "1/4 cup flour",
+                    "1/4 cup pork broth",
+                    "2 tablespoons butter",
+                    "2 tablespoons olive oil",
+                    "2 tablespoons chopped parsley",
+                    "Salt and pepper to taste"
+                ]
+            }
+        ]
     },
     {
         "id": 5,
@@ -51,8 +237,51 @@
         "recipes": 7,
         "likes": 7500,
         "rating": 4.9,
-        "bio": "Michael Brown is a chef with 15 years of experience in seafood and American cuisine. He has created over 100 recipes and has garnered a following of 7500 food enthusiasts. His grilled salmon recipe is a must-try for seafood lovers."
-        
+        "bio": "Michael Brown is a chef with 15 years of experience in seafood and American cuisine. He has created over 100 recipes and has garnered a following of 7500 food enthusiasts. His grilled salmon recipe is a must-try for seafood lovers.",
+        "recipe": [
+            {
+                "name": "Homemade Pizza",
+                "cooking_method": "Preheat oven to 425°F. Roll out pizza dough on a floured surface. Spread pizza sauce on top of the dough. Sprinkle shredded mozzarella cheese on top of the sauce. Add pepperoni and black olives. Bake in preheated oven for 10-15 minutes, until crust is golden brown and cheese is melted.",
+                "ingredients": [
+                    "1 batch homemade pizza dough",
+                    "1/2 cup pizza sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup sliced pepperoni",
+                    "1/4 cup sliced black olives"
+                ]
+            },
+            {
+                "name": "Chicken Parmesan",
+                "ingredients": [
+                    "4 boneless, skinless chicken breasts",
+                    "1 cup Italian seasoned breadcrumbs",
+                    "1/2 cup grated Parmesan cheese",
+                    "2 eggs",
+                    "1 cup marinara sauce",
+                    "1 cup shredded mozzarella cheese",
+                    "1/4 cup chopped fresh basil",
+                    "Salt and pepper to taste",
+                    "Olive oil for frying"
+                ]
+            },
+            {
+                "name": "Beef Stew",
+                "ingredients": [
+                    "2 pounds beef stew meat",
+                    "1/4 cup all-purpose flour",
+                    "1 onion, chopped",
+                    "2 cloves garlic, minced",
+                    "4 carrots, chopped",
+                    "4 potatoes, peeled and chopped",
+                    "4 cups beef broth",
+                    "2 tablespoons tomato paste",
+                    "2 teaspoons Worcestershire sauce",
+                    "2 bay leaves",
+                    "2 tablespoons chopped fresh parsley",
+                    "Salt and pepper to taste"
+                ]
+            }
+        ]
     },
     {
         "id": 6,
@@ -62,7 +291,51 @@
         "recipes": 5,
         "likes": 3000,
         "rating": 4.3,
-        "bio": "Emma Wilson is a chef with 7 years of experience in French cuisine. She has authored over 55 recipes and has gained a following of 3000 food enthusiasts. Her croissant recipe is a classic French pastry and has been featured in various food blogs and magazines."
-        
+        "bio": "Emma Wilson is a chef with 7 years of experience in French cuisine. She has authored over 55 recipes and has gained a following of 3000 food enthusiasts. Her croissant recipe is a classic French pastry and has been featured in various food blogs and magazines.",
+        "recipe": [
+            {
+                "name": "Vegetable Stir-Fry",
+                "ingredients": [
+                    "1 tablespoon vegetable oil",
+                    "1 onion, sliced",
+                    "2 cloves garlic, minced",
+                    "1 red bell pepper, sliced",
+                    "1 green bell pepper, sliced",
+                    "1 cup broccoli florets",
+                    "1 cup sliced mushrooms",
+                    "1/2 cup sliced carrots",
+                    "1/4 cup soy sauce",
+                    "1 tablespoon honey",
+                    "1 tablespoon cornstarch",
+                    "1 tablespoon water",
+                    "2 tablespoons chopped fresh cilantro",
+                    "Salt and pepper to taste"
+                ]
+            },
+            {
+                "name": "Baked Salmon",
+                "ingredients": [
+                    "4 salmon fillets",
+                    "2 tablespoons Dijon mustard",
+                    "2 tablespoons honey",
+                    "2 cloves garlic, minced",
+                    "1/4 cup breadcrumbs",
+                    "1/4 cup chopped fresh parsley",
+                    "Salt and pepper to taste",
+                    "Lemon wedges for serving"
+                ]
+            },
+            {
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "4 large ripe tomatoes",
+                    "8 ounces fresh mozzarella cheese, sliced",
+                    "1/4 cup chopped fresh basil",
+                    "2 tablespoons balsamic vinegar",
+                    "2 tablespoons olive oil",
+                    "Salt and pepper to taste"
+                ]
+            }
+        ]
     }
 ]
