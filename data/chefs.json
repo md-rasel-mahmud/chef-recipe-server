@@ -4,7 +4,7 @@
     "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
     "name": "John Smith",
     "experience": 10,
-    "recipes": 75,
+    "recipes": 5,
     "likes": 4500,
     "testimonial": {
       "authorName": "Jane Doe",
@@ -17,7 +17,7 @@
     "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
     "name": "Maria Rodriguez",
     "experience": 8,
-    "recipes": 60,
+    "recipes": 6,
     "likes": 3500,
     "testimonial": {
       "authorName": "Bob Johnson",
@@ -30,7 +30,7 @@
     "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
     "name": "David Lee",
     "experience": 12,
-    "recipes": 80,
+    "recipes": 3,
     "likes": 5000,
     "testimonial": {
       "authorName": "Samantha Chang",
@@ -43,7 +43,7 @@
     "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
     "name": "Catherine Nguyen",
     "experience": 6,
-    "recipes": 50,
+    "recipes": 12,
     "likes": 2500,
     "testimonial": {
       "authorName": "Mark Davis",
@@ -56,7 +56,7 @@
     "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
     "name": "Michael Brown",
     "experience": 15,
-    "recipes": 100,
+    "recipes": 7,
     "likes": 7500,
     "testimonial": {
       "authorName": "Rachel Wilson",
@@ -69,7 +69,7 @@
     "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
     "name": "Emma Wilson",
     "experience": 7,
-    "recipes": 55,
+    "recipes": 5,
     "likes": 3000,
     "testimonial": {
       "authorName": "Jake Smith",
