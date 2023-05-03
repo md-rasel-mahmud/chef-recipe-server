@@ -1,50 +1,80 @@
 [
-    {
-      "id": 1,
-      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
-      "name": "John Smith",
-      "experience": 10,
-      "recipes": 75,
-      "likes": 4500
-    },
-    {
-      "id": 2,
-      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
-      "name": "Maria Rodriguez",
-      "experience": 8,
-      "recipes": 60,
-      "likes": 3500
-    },
-    {
-      "id": 3,
-      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
-      "name": "David Lee",
-      "experience": 12,
-      "recipes": 80,
-      "likes": 5000
-    },
-    {
-      "id": 4,
-      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
-      "name": "Catherine Nguyen",
-      "experience": 6,
-      "recipes": 50,
-      "likes": 2500
-    },
-    {
-      "id": 5,
-      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
-      "name": "Michael Brown",
-      "experience": 15,
-      "recipes": 100,
-      "likes": 7500
-    },
-    {
-      "id": 6,
-      "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
-      "name": "Emma Wilson",
-      "experience": 7,
-      "recipes": 55,
-      "likes": 3000
+  {
+    "id": 1,
+    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "name": "John Smith",
+    "experience": 10,
+    "recipes": 75,
+    "likes": 4500,
+    "testimonial": {
+      "authorName": "Jane Doe",
+      "authorImage": "https://example.com/images/jane-doe.png",
+      "comment": "I recently tried John's lasagna recipe and it was amazing! The flavors were well-balanced and the pasta was cooked to perfection. I can't wait to try more of John's recipes!"
     }
-  ]
+  },
+  {
+    "id": 2,
+    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "name": "Maria Rodriguez",
+    "experience": 8,
+    "recipes": 60,
+    "likes": 3500,
+    "testimonial": {
+      "authorName": "Bob Johnson",
+      "authorImage": "https://example.com/images/bob-johnson.png",
+      "comment": "Maria's shrimp scampi recipe is one of my favorites! It's so flavorful and easy to make. I highly recommend it!"
+    }
+  },
+  {
+    "id": 3,
+    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "name": "David Lee",
+    "experience": 12,
+    "recipes": 80,
+    "likes": 5000,
+    "testimonial": {
+      "authorName": "Samantha Chang",
+      "authorImage": "https://example.com/images/samantha-chang.png",
+      "comment": "David's chicken curry recipe is a family favorite in our household! It's so fragrant and delicious, and the chicken is always perfectly cooked. Thank you, David!"
+    }
+  },
+  {
+    "id": 4,
+    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "name": "Catherine Nguyen",
+    "experience": 6,
+    "recipes": 50,
+    "likes": 2500,
+    "testimonial": {
+      "authorName": "Mark Davis",
+      "authorImage": "https://example.com/images/mark-davis.png",
+      "comment": "Catherine's pho recipe is simply amazing! It's so flavorful and comforting, and the beef is always tender. I highly recommend it!"
+    }
+  },
+  {
+    "id": 5,
+    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "name": "Michael Brown",
+    "experience": 15,
+    "recipes": 100,
+    "likes": 7500,
+    "testimonial": {
+      "authorName": "Rachel Wilson",
+      "authorImage": "https://example.com/images/rachel-wilson.png",
+      "comment": "I recently tried Michael's grilled salmon recipe and it was absolutely delicious! The salmon was perfectly cooked and the marinade was so flavorful. I can't wait to try more of Michael's recipes!"
+    }
+  },
+  {
+    "id": 6,
+    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "name": "Emma Wilson",
+    "experience": 7,
+    "recipes": 55,
+    "likes": 3000,
+    "testimonial": {
+      "authorName": "Jake Smith",
+      "authorImage": "https://example.com",
+      "comment": "Wow! The dishes prepared by these chefs are absolutely amazing. The flavors and presentation are top-notch. I highly recommend trying out their recipes."
+    }
+  }
+]
