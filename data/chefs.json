@@ -1,79 +1,79 @@
 [
   {
     "id": 1,
-    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
     "name": "John Smith",
     "experience": 10,
     "recipes": 5,
     "likes": 4500,
     "testimonial": {
       "authorName": "Jane Doe",
-      "authorImage": "https://example.com/images/jane-doe.png",
+      "authorImage": "https://images.unsplash.com/photo-1566492031773-4f4e44671857?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGF2YXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
       "comment": "I recently tried John's lasagna recipe and it was amazing! The flavors were well-balanced and the pasta was cooked to perfection. I can't wait to try more of John's recipes!"
     }
   },
   {
     "id": 2,
-    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "picture": "https://plus.unsplash.com/premium_photo-1661778091956-15dbe6e47442?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
     "name": "Maria Rodriguez",
     "experience": 8,
     "recipes": 6,
     "likes": 3500,
     "testimonial": {
       "authorName": "Bob Johnson",
-      "authorImage": "https://example.com/images/bob-johnson.png",
+      "authorImage": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
       "comment": "Maria's shrimp scampi recipe is one of my favorites! It's so flavorful and easy to make. I highly recommend it!"
     }
   },
   {
     "id": 3,
-    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
     "name": "David Lee",
     "experience": 12,
     "recipes": 3,
     "likes": 5000,
     "testimonial": {
       "authorName": "Samantha Chang",
-      "authorImage": "https://example.com/images/samantha-chang.png",
+      "authorImage": "https://images.unsplash.com/photo-1544725176-7c40e5a71c5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGF2YXRhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
       "comment": "David's chicken curry recipe is a family favorite in our household! It's so fragrant and delicious, and the chicken is always perfectly cooked. Thank you, David!"
     }
   },
   {
     "id": 4,
-    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGNoZWZ8ZW58MHx8MHx8&auto=format&fit=crop&w=400&q=60",
     "name": "Catherine Nguyen",
     "experience": 6,
     "recipes": 12,
     "likes": 2500,
     "testimonial": {
       "authorName": "Mark Davis",
-      "authorImage": "https://example.com/images/mark-davis.png",
+      "authorImage": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
       "comment": "Catherine's pho recipe is simply amazing! It's so flavorful and comforting, and the beef is always tender. I highly recommend it!"
     }
   },
   {
     "id": 5,
-    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
     "name": "Michael Brown",
     "experience": 15,
     "recipes": 7,
     "likes": 7500,
     "testimonial": {
       "authorName": "Rachel Wilson",
-      "authorImage": "https://example.com/images/rachel-wilson.png",
+      "authorImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80",
       "comment": "I recently tried Michael's grilled salmon recipe and it was absolutely delicious! The salmon was perfectly cooked and the marinade was so flavorful. I can't wait to try more of Michael's recipes!"
     }
   },
   {
     "id": 6,
-    "picture": "https://avatars.githubusercontent.com/u/84854759?v=4",
+    "picture": "https://images.unsplash.com/photo-1556909114-44e3e70034e2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHdvbWFuJTIwY2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=400&q=60",
     "name": "Emma Wilson",
     "experience": 7,
     "recipes": 5,
     "likes": 3000,
     "testimonial": {
       "authorName": "Jake Smith",
-      "authorImage": "https://example.com",
+      "authorImage": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80",
       "comment": "Wow! The dishes prepared by these chefs are absolutely amazing. The flavors and presentation are top-notch. I highly recommend trying out their recipes."
     }
   }
